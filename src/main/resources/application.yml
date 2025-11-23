@@ -1,4 +1,6 @@
 spring:
+  liquibase:
+    change-log: classpath:/db/migrations/db.changelog-master.xml
   datasource:
     url: jdbc:postgresql://localhost:5431/user_service
     username: postgres
