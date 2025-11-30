@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.34/ec547ef414ab1d2c040118fb9c1c265ada63af14/lombok-1.18.34.jar" />
+        </processorPath>
+        <module name="org.example.internship.notification-service.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.42/8365263844ebb62398e0dc33057ba10ba472d3b8/lombok-1.18.42.jar" />
+        </processorPath>
+        <module name="org.example.internship.userservice.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="notification-service" target="21" />
+      <module name="notification-service.main" target="21" />
+      <module name="notification-service.test" target="21" />
+      <module name="org.example.internship" target="21" />
+      <module name="org.example.internship.main" target="21" />
+      <module name="org.example.internship.notification-service" target="21" />
+      <module name="org.example.internship.notification-service.main" target="21" />
+      <module name="org.example.internship.notification-service.test" target="21" />
+      <module name="org.example.internship.test" target="21" />
+      <module name="org.example.internship.userservice" target="21" />
+      <module name="org.example.internship.userservice.main" target="21" />
+      <module name="org.example.internship.userservice.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="notification-service" options="-parameters" />
+      <module name="notification-service.main" options="-parameters" />
+      <module name="notification-service.test" options="-parameters" />
+      <module name="org.example.internship" options="-parameters" />
+      <module name="org.example.internship.main" options="-parameters" />
+      <module name="org.example.internship.notification-service" options="-parameters" />
+      <module name="org.example.internship.notification-service.main" options="-parameters" />
+      <module name="org.example.internship.notification-service.test" options="-parameters" />
+      <module name="org.example.internship.test" options="-parameters" />
+      <module name="org.example.internship.userservice" options="-parameters" />
+      <module name="org.example.internship.userservice.main" options="-parameters" />
+      <module name="org.example.internship.userservice.test" options="-parameters" />
+    </option>
+  </component>
+</project>
